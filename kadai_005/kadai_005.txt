@@ -10,6 +10,9 @@ $ git init
 Initialized empty Git repository in C:/Users/K.Kaori/Desktop/Git_kadai/git_challenge/.git/
 
 K.Kaori@DESKTOP-F553R8K MINGW64 ~/Desktop/Git_kadai/git_challenge (main)
+$ git add hello_world.txt
+
+K.Kaori@DESKTOP-F553R8K MINGW64 ~/Desktop/Git_kadai/git_challenge (main)
 $ echo  Hello, world!" >> hello_world.txt
 
 K.Kaori@DESKTOP-F553R8K MINGW64 ~/Desktop/Git_kadai/git_challenge (main)
